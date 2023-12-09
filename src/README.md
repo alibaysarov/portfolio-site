@@ -1,4 +1,4 @@
-## Portfolio site 
+## Docker Сборка (Laravel- React) 
 ## Состав сборки
 - php-fpm
 - mysql
